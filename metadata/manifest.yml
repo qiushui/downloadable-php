@@ -1,13 +1,13 @@
-Name: v2php
-Cartridge-Short-Name: v2PHP
-Display-Name: V2PHP
+Name: redhat
+Cartridge-Short-Name: PHP
+Display-Name: PHP 5.3
 Description: "A php version created by jhou"
 Version: '5.3'
 License: "The PHP License, version 3.0"
 License-Url: http://www.php.net/license/3_0.txt
 Vendor: php.net
 Cartridge-Version: 0.0.1
-Cartridge-Vendor: jhou
+Cartridge-Vendor: redhat
 Categories:
   - service
   - php
