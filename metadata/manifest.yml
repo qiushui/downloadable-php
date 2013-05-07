@@ -1,13 +1,13 @@
 Name: v2php
-Cartridge-Short-Name: v2php
-Display-Name: v2php
+Cartridge-Short-Name: v2PHP
+Display-Name: V2PHP
 Description: "A php version created by jhou"
-Version: '8.8'
+Version: '5.3'
 License: "The PHP License, version 3.0"
 License-Url: http://www.php.net/license/3_0.txt
 Vendor: php.net
-Cartridge-Version: 0.8.8
-Cartridge-Vendor: "jhou"
+Cartridge-Version: 0.0.1
+Cartridge-Vendor: jhou
 Categories:
   - service
   - php
