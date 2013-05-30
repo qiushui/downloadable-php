@@ -76,6 +76,7 @@ Group-Overrides:
   - components:
     - php-5.3
     - web_proxy
+    - jhouphp
 
 Endpoints:
   - Private-IP-Name:   IP
