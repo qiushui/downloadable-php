@@ -10,8 +10,8 @@ Cartridge-Version: 0.0.1
 Cartridge-Vendor: jhouphp
 Categories:
   - service
-  - php
   - web_framework
+  - jhouphp
 Website: http://www.php.net
 Help-Topics:
   "Developer Center": https://www.openshift.com/developers
@@ -46,6 +46,7 @@ Cart-Data:
 Provides:
   - php-5.3
   - "php"
+  - jhouphp
 Publishes:
   get-php-ini:
     Type: "FILESYSTEM:php-ini"
@@ -74,7 +75,6 @@ Scaling:
   Max: -1
 Group-Overrides:
   - components:
-    - php-5.3
     - web_proxy
     - jhouphp
 
