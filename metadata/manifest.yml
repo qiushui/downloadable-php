@@ -11,7 +11,7 @@ Cartridge-Vendor: jhouphp
 Categories:
   - service
   - web_framework
-  - jhouphp
+  - jhouphp-5.3
 Website: http://www.php.net
 Help-Topics:
   "Developer Center": https://www.openshift.com/developers
@@ -44,9 +44,8 @@ Cart-Data:
     Type: environment
     Description: "Unique ID which identified the gear. This value changes between gears."
 Provides:
-  - php-5.3
   - "php"
-  - jhouphp
+  - jhouphp-5.3
 Publishes:
   get-php-ini:
     Type: "FILESYSTEM:php-ini"
@@ -77,6 +76,7 @@ Group-Overrides:
   - components:
     - web_proxy
     - jhouphp
+    - jhouphp-5.3
 
 Endpoints:
   - Private-IP-Name:   IP
