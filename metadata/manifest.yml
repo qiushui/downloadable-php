@@ -7,7 +7,7 @@ License: "The PHP License, version 3.0"
 License-Url: http://www.php.net/license/3_0.txt
 Vendor: php.net
 Cartridge-Version: 0.0.1
-Cartridge-Vendor: abc
+Cartridge-Vendor: qiushui
 Categories:
   - service
   - php
@@ -90,4 +90,4 @@ Endpoints:
         Backend:       ""
         Options:       { health: true }
 Install-Build-Required: false
-Source-Url: git://github.com/jhou1/v2php.git
+Source-Url: git://github.com/qiushui/downloadable-php.git
